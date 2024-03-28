@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amitvis21952211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amitvis21952211" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amit-vishwakarma-693a6b217" target="blank"><img align="center" src="https://github.com/amitvsk/DSA-practice/blob/dsa/usergithub.gif" alt="amit-vishwakarma-693a6b217" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amit-vishwakarma-693a6b217" target="blank"><img align="center" src="https://github.com/amitvsk/DSA-practice/blob/dsa/linkdin.gif" alt="amit-vishwakarma-693a6b217" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
